@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+    background-color: #64ecb8;
+    
+    color: rgb(63, 39, 24);
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    border-radius: 10%;
+    background-color: rgb(241, 225, 75);
+    padding: 5px 20px;
+    border-style: none;
+}
+
+input {
+    height: 20px;
+}
+
